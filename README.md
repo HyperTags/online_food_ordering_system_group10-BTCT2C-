@@ -1,6 +1,6 @@
 # Updated README.md - 10Tables
 
-```markdown
+
 # 🍽️ 10Tables - Online Food Ordering System (Ghana Edition 🇬🇭)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -85,7 +85,7 @@ A complete dynamic web application for online food ordering, developed as a mid-
 
 ## 📁 Project Structure
 
-```
+
 food_ordering_system/
 │
 ├── assets/
@@ -375,4 +375,5 @@ switch($order['status']) {
 **Back-End Web Development Mid-Semester Project**
 
 *© 2026 10Tables. All Rights Reserved.*
+
 ```
