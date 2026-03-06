@@ -151,15 +151,7 @@ food_ordering_system/
    define('DB_NAME', 'food_ordering_system');
    ```
 
-5. **Set Directory Permissions**
-   - Ensure `assets/uploads/` directory has write permissions
-   - The system will automatically create this folder if it doesn't exist
-   - On Linux/Mac:
-     ```bash
-     chmod 755 assets/uploads/
-     ```
-
-7. **Run the Application**
+5. **Run the Application**
    - Open your browser and navigate to:
    ```
    http://localhost/food_ordering_system/
@@ -376,6 +368,7 @@ switch($order['status']) {
 *© 2026 10Tables. All Rights Reserved.*
 
 ```
+
 
 
 
