@@ -120,6 +120,7 @@ food_ordering_system/
 - Web server (Apache/Nginx) or XAMPP/WAMP
 - Web browser (Chrome, Firefox, etc.)
 
+
 ### Step-by-Step Installation
 
 1. **Clone or Download the repository**
